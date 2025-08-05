@@ -22,4 +22,4 @@ Frontend & UI: Streamlit
 
 API for exchange rates: Frankfurter API
 
-Language: Python 3
+Language: Python 3
